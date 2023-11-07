@@ -1,5 +1,3 @@
-# Python Programming Repository
-
 ## Introduction
 In this repository, I have documented my journey in learning and practicing Python programming. You will find assignments and exercises related to various Python libraries and modules, including core Python concepts, OOPs concepts, NumPy, Pandas, Matplotlib, and more.
 
