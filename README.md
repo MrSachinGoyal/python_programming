@@ -1,5 +1,5 @@
 ## Introduction
-In this repository, I have documented my journey in learning and practicing Python programming. You will find assignments and exercises related to various Python libraries and modules, including core Python concepts, OOPs concepts, NumPy, Pandas, Matplotlib, and more.
+In this repository, I have documented my journey in learning and practicing Python programming. You will find assignments and exercises related to various Python libraries and modules, including core Python concepts, OOPs concepts, NumPy, Pandas, Matplotlib, and Data Structures and Algorithms.
 
 ## Contents
 Here's a list of various Python topics that I explored and learn:
